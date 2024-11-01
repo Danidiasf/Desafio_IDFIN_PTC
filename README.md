@@ -1,7 +1,7 @@
 # Desafio de Análise de Dados - Processo Seletivo CITI
 
 ## Objetivo do Projeto
-O desafio proposto é realizar uma [Análise Exploratória dos Dados](https://github.com/Danidiasf/Desafio_IDFIN_PTC/blob/main/EDA_desafioIDFIN_PTC.ipynb) para o departamento de marketing de um banco que realizou uma campanha nacional de três meses para promover um produto de investimento. O objetivo central da análise é identificar os principais fatores que influenciam a compra de títulos pelos clientes, com o intuito de otimizar futuras campanhas de marketing.
+O desafio proposto é realizar uma [Análise Exploratória dos Dados (EDA)](https://github.com/Danidiasf/Desafio_IDFIN_PTC/blob/main/EDA_desafioIDFIN_PTC.ipynb) para o departamento de marketing de um banco que realizou uma campanha nacional de três meses para promover um produto de investimento. O objetivo central da análise é identificar os principais fatores que influenciam a compra de títulos pelos clientes, com o intuito de otimizar futuras campanhas de marketing.
 
 ## Entendimento do Negócio
 A campanha foi direcionada a clientes selecionados e agora a equipe de Analytics deseja compreender o perfil desses clientes para identificar aqueles mais propensos a adquirir títulos e investimentos. Isso permitirá decisões mais precisas e estratégicas nas próximas campanhas.
