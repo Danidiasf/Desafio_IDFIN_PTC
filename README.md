@@ -22,13 +22,6 @@ A campanha foi direcionada a clientes selecionados e agora a equipe de Analytics
 4. **Insights e Recomendações**: Geração de insights estratégicos e recomendações práticas com base na análise dos dados.
 5. **Relatório Final**: Elaboração de um relatório detalhado com os principais resultados e sugestões para o time de marketing.
 
-## Problemas a Serem Resolvidos
-- **Quais fatores influenciam a compra de títulos?** Identificar variáveis que impactam na decisão de compra.
-- **Existem padrões específicos nas variáveis numéricas?** Analisar como variáveis como idade e crédito se relacionam com a compra de títulos.
-- **Existem padrões específicos nas variáveis categóricas?** Explorar o impacto de categorias como estado civil e profissão no comportamento de compra.
-- **Qual é o perfil dos clientes que compram e que não compram títulos?** Definir personas para melhor segmentação.
-- **Quais recomendações podem ser feitas ao banco?** Oferecer insights claros e estratégias para otimizar futuras campanhas.
-
 ## Tecnologias Utilizadas
 - **Python** para análise de dados e visualização
 - **Bibliotecas**: Pandas, NumPy, Matplotlib, e Scikit-learn para análise e visualização de dados.
