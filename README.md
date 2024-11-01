@@ -11,7 +11,7 @@ A campanha foi direcionada a clientes selecionados e agora a equipe de Analytics
 2. **Exploração de Padrões nas [Variáveis Numéricas](https://github.com/Danidiasf/Desafio_IDFIN_PTC/blob/main/Relat%C3%B3rioIDFIN.ipynb)**: Explorar possíveis correlações entre variáveis numéricas (como idade e crédito) e a probabilidade de compra de títulos.
 3. **Exploração de Padrões nas [Variáveis Categóricas](https://github.com/Danidiasf/Desafio_IDFIN_PTC/blob/main/Relat%C3%B3rioIDFIN.ipynb)**: Analisar padrões de compra em diferentes categorias, como nível educacional e profissão, para entender como características categóricas afetam a propensão a adquirir títulos.
 4. **Definição de [Personas](https://github.com/Danidiasf/Desafio_IDFIN_PTC/blob/main/Personas_IDFIN_PTC.ipynb)**: Construir perfis específicos dos clientes que compram e que não compram os títulos, facilitando uma segmentação mais precisa.
-5. **Relatório com [Recomendações](https://github.com/Danidiasf/Desafio_IDFIN_PTC/blob/main/Relat%C3%B3rioIDFIN.ipynb)**: Desenvolver um relatório com insights claros e recomendações para auxiliar na tomada de decisões e aumentar a taxa de conversão em futuras campanhas.
+5. **[Relatório com Recomendações](https://github.com/Danidiasf/Desafio_IDFIN_PTC/blob/main/Relat%C3%B3rioIDFIN.ipynb)**: Desenvolver um relatório com insights claros e recomendações para auxiliar na tomada de decisões e aumentar a taxa de conversão em futuras campanhas.
 
 ## Estrutura do Projeto
 1. **Importação e Limpeza de Dados**: Leitura e tratamento dos dados para garantir que estejam prontos para análise, incluindo tratamento de valores ausentes e correção de inconsistências.
